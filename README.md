@@ -2,6 +2,8 @@
 
 ## Descripción
 Este proyecto implementa un sistema de reconocimiento de gestos de manos utilizando OpenCV en C++. El objetivo es identificar al menos cinco gestos diferentes (incluidos dígitos y gestos como "OK") y mostrarlos en pantalla en tiempo real.
+![image](https://github.com/user-attachments/assets/b63408d4-75d8-498a-8417-a2e3b00b973a)
+
 
 ## Funcionalidades
 1. **Preprocesamiento de la imagen**: 
@@ -34,3 +36,14 @@ Este proyecto implementa un sistema de reconocimiento de gestos de manos utiliza
 - OpenCV 4.x
 - Compilador compatible con C++
 - Cámara web
+
+![image](https://github.com/user-attachments/assets/662d4c69-75ce-43a1-bf58-ce1e47edd819)
+![image](https://github.com/user-attachments/assets/7a366025-bff5-4a1b-8b60-f3f978a85982)
+![image](https://github.com/user-attachments/assets/59349e1c-5111-4f25-92c3-943533bfc4a1)
+![image](https://github.com/user-attachments/assets/8e8138c9-14bb-4c70-8b4f-af317844fa0c)
+
+
+
+
+
+
